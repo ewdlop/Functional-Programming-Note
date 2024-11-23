@@ -1,4 +1,4 @@
-﻿namespace Functional_Programming_Note_Net;
+﻿namespace ClassLibrary1;
 
 public record StudentName(string FirstName, string LastName, int ID);
 
